@@ -1,4 +1,4 @@
-class name extends StatefulWidget {
+/**class name extends StatefulWidget {
   final String value;
 
   name({Key? key}) : super(key: key);
@@ -14,4 +14,4 @@ class _nameState extends State<name> {
        child: null,
     );
   }
-}
+}**/
